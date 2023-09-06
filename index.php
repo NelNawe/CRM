@@ -1,7 +1,7 @@
 <?php
 
 // On inclut la connexion à la base
-require_once('config.php');
+require_once('Back/config.php');
 
 // On écrit notre requête
 $sql = 'SELECT * FROM `contact`';
